@@ -1,12 +1,11 @@
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/amrsalim">Amr Salem</a>'s Profile 👋</h1>
 </p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=cairo&color=%236C33F7&size=22&center=true&vCenter=true&lines=Welcome+to+my+gethub+profile+%F0%9F%91%8B;I+am+Amr+Salem+%F0%9F%91%8B;I+am+a+Full+Stack+Web+developer;I+am+a+Flutter+Devoloper)](https://git.io/typing-svg)
+
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=cairo&color=%236C33F7&size=22&center=true&vCenter=true&lines=Welcome+to+my+gethub+profile+%F0%9F%91%8B;I+am+Amr+Salem+%F0%9F%91%8B;I+am+a+Full+Stack+Web+developer;I+am+a+Flutter+Devoloper" /></a>
 </p>
-<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+
 <ul>
   <li>👋 Hi, I’m @amrsalem</li>
   <li>❤️ I love Creating websites and Programming in Php Laravel And Node Js.</li>
