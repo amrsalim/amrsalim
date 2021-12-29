@@ -1,8 +1,7 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/amrsalim">Amr Salem</a>'s Profile 👋</h1>
+  <h1 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Welcome to <a href="https://github.com/amrsalim">Amr Salem</a>'s Profile 👋</h1>
   
 </p>
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:tien.huynhlt.tn@gmail.com" >
     <img align="center" alt="TienHuynh-TN | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
