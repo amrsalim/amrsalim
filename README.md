@@ -14,26 +14,6 @@
   <li>🧐 Portfolio Website, domain</li>
 </ul>
 
-#### A little more about me
-```javascript
-const badri = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python", "flask"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["Flask", "JS"],
-  }
-}
-
-
-#### I'm an Early 🐤
-```text
-🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
-🌆 Daytime    205 commits    ████████████░░░░░░░░░░░░░   54.5% 
-🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   20.5% 
-🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
-```
 
 #### I Spent My Time On
 ```text
