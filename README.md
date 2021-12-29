@@ -31,7 +31,6 @@
    <img src="https://img.shields.io/badge/Nuxt.js%20-%23F7DF1E.svg?&style=for-the-badge&color=2F495E" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/TDD%20-%23F7DF1E.svg?&style=for-the-badge&color=A4AD19" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/E2E Testing%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/BDD%20-%23F7DF1E.svg?&style=for-the-badge&color=6CC24A" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Sass%20-%23F7DF1E.svg?&style=for-the-badge&color=CD6799" />&nbsp;&nbsp;
@@ -42,16 +41,13 @@
    <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Apache Kafka%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/GraphQL%20-%23F7DF1E.svg?&style=for-the-badge&color=E535AB" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Laravel%20-%23F7DF1E.svg?&style=for-the-badge&color=F24F3B" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Lumen%20-%23F7DF1E.svg?&style=for-the-badge&color=F24F3B" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Eloquent%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
    <br/>
    <img src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Redis%20-%23F7DF1E.svg?&style=for-the-badge&color=802221" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Asterisk 11%20-%23F7DF1E.svg?&style=for-the-badge&color=F68F1E" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F" />&nbsp;&nbsp;
    <br />
    <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
