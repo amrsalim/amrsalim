@@ -77,6 +77,17 @@
    <img src="https://img.shields.io/badge/Docker compose%20-%23F7DF1E.svg?&style=for-the-badge&color=B4C3D2" />&nbsp;&nbsp;
 </p> 
 
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/ahmedalmory/ahmedalmory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalmory&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/ahmedalmory/ahmedalmory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedalmory&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
+
+
 
 #### I Spent My Time On
 ```text
