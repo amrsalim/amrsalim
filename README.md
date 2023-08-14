@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Welcome to <a href="https://github.com/amrsalim">Amr Salem</a>'s Profile 👋</h1>
+  <h1 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Welcome to <a href="https://github.com/amrsalim">Amr Mostafa</a>'s Profile 👋</h1>
   
 </p>
 <p align="center">
@@ -11,13 +11,7 @@
     <img align="center" alt="Amr Salem | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.facebook.com/4amr.salem/" target="_blank">
-      <img align="center" alt="Amr Salem | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/" target="_blank">
-    <img align="center" alt="Amr Salem | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
+
   
   <a href="https://github.com/amrsalim" target="_blank">
     <img align="center" alt="Amr Salem | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
