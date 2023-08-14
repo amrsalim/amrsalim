@@ -18,7 +18,7 @@
   </a> &nbsp;&nbsp;
 <p> 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=cairo&color=%236C33F7&size=22&center=true&vCenter=true&lines=Welcome+to+my+gethub+profile+%F0%9F%91%8B;I+am+Amr+Salem+%F0%9F%91%8B;I+am+a+Full+Stack+Web+developer;I+am+a+Flutter+Devoloper" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=cairo&color=%236C33F7&size=22&center=true&vCenter=true&lines=Welcome+to+my+gethub+profile+%F0%9F%91%8B;I+am+Amr+Mostafa+%F0%9F%91%8B;I+am+a+Full+Stack+Web+developer;I+am+a+Flutter+Devoloper" /></a>
 </p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
