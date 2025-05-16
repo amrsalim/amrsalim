@@ -71,13 +71,6 @@
 * **Design Patterns:** Singleton, Factory, Repository, Dependency Injection, Observer, Strategy.
 * **Example:** Implemented Repository pattern in [Project X](https://github.com/amrsalim/project-x) for cleaner data access.
 
-## 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrsalim&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amrsalim&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
 ---
 
 — Amr Mostafa 
