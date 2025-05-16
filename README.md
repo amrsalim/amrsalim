@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-* **Name:** Amr Mostafa Salem
+* **Name:** Amr Mostafa
 * **Title:** Senior Full-Stack Engineer
 * **Experience:** 6+ years building scalable SaaS, e-commerce, and real-time applications.
 * **Expertise:** Laravel, Node.js, React, Next.js, Vue, Flutter, C++.
