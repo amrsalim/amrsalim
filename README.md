@@ -31,46 +31,33 @@
 
 ## ⚙️ Skills & Technologies
 
-### Frontend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js" />
-  <img src="https://img.shields.io/badge/Vue.js-%2341B883?style=for-the-badge&logo=vue.js" />
-</p>
-
-### Backend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-%23F24F3B?style=for-the-badge&logo=laravel" />
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js" />
-</p>
-
-### Mobile & Others
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart" />
-  <img src="https://img.shields.io/badge/TypeScript-%231F93FF?style=for-the-badge&logo=typescript" />
-</p>
-
-### Data & DevOps
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23007ACC?style=for-the-badge&logo=kubernetes" />
-</p>
+| Category        | Technologies                                              |
+| --------------- | --------------------------------------------------------- |
+| **Frontend**    | React, Next.js, Vue, Nuxt.js, TypeScript, JavaScript      |
+| **Backend**     | Laravel, NestJS, Express, Node.js, PHP, MySQL, PostgreSQL |
+| **Mobile**      | Flutter, Dart                                             |
+| **DevOps & DB** | Docker, Kubernetes, Redis, MongoDB, PostgreSQL            |
+| **Testing**     | Jest, Mocha, Cypress                                      |
 
 ## 📐 Architecture & Patterns
 
+* **Clean & Modular Structure**: Clear separation of Presentation, Business, and Data layers, following Clean/Hexagonal Architecture.
+
+* **Microservices & Event-Driven**: Independent services communicating via RabbitMQ & Kafka for loose coupling.
+
+* **Scalability Patterns**: CQRS (Command Query Responsibility Segregation) & Event Sourcing for high-throughput and auditability.
+
+* **Design Patterns**: Singleton, Factory, Repository, Dependency Injection, Observer, Strategy, Adapter.
+
+* **Practical Examples**:
+
 * **Clean/Hexagonal Architecture** for decoupled, maintainable code.
+
 * **Microservices & Event-Driven** using RabbitMQ/Kafka.
+
 * **Design Patterns:** Singleton, Factory, Repository, Dependency Injection, Observer, Strategy.
-* **Example:** Implemented Repository pattern in [Project X](https://github.com/amrsalim/project-x) for cleaner data access.
 
----
 
-— Amr Mostafa 
+
+
+— Amr Mostafa
