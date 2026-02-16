@@ -3,6 +3,7 @@
   <h1>
     Welcome to <a href="https://github.com/amrsalim">Amr Mostafa</a>'s Profile 👋
   </h1>
+  <h3>Senior Software Engineer | Scalable Systems Architect</h3>
 </div>
 
 <div align="center">
@@ -17,47 +18,101 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=cairo&color=%236C33F7&size=22&center=true&vCenter=true&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+am+Amr+Mostafa+%F0%9F%91%8B;Full-Stack+Web+&+Mobile+Developer" alt="Typing SVG" />
-  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding GIF" width="200" />
-</p>
+---
 
 ## 👨‍💻 About Me
 
-* **Name:** Amr Mostafa
-* **Title:** Senior Full-Stack Engineer
-* **Experience:** 6+ years building scalable SaaS, e-commerce, and real-time applications.
-* **Expertise:** Laravel, Node.js, React, Next.js, Vue, Flutter, C++.
+Senior Software Engineer with 7+ years of experience designing and building scalable SaaS platforms, high-traffic e-commerce systems, and real-time applications.
 
-## ⚙️ Skills & Technologies
+I specialize in backend architecture, distributed systems, and performance optimization.
 
-| Category        | Technologies                                              |
-| --------------- | --------------------------------------------------------- |
-| **Frontend**    | React, Next.js, Vue, Nuxt.js, TypeScript, JavaScript      |
-| **Backend**     | Laravel, NestJS, Express, Node.js, PHP, MySQL, PostgreSQL |
-| **Mobile**      | Flutter, Dart                                             |
-| **DevOps & DB** | Docker, Kubernetes, Redis, MongoDB, PostgreSQL            |
-| **Testing**     | Jest, Mocha, Cypress                                      |
+**Core Focus:**
+- Scalable system design
+- Clean & Hexagonal Architecture
+- Microservices & Event-Driven systems
+- High-performance APIs
+- SaaS infrastructure
 
-## 📐 Architecture & Patterns
+---
 
-* **Clean & Modular Structure**: Clear separation of Presentation, Business, and Data layers, following Clean/Hexagonal Architecture.
+## ⚙️ Tech Stack
 
-* **Microservices & Event-Driven**: Independent services communicating via RabbitMQ & Kafka for loose coupling.
+### 🖥 Backend
+- PHP (Laravel)
+- Go
+- Node.js (NestJS, Express)
+- REST & GraphQL APIs
 
-* **Scalability Patterns**: CQRS (Command Query Responsibility Segregation) & Event Sourcing for high-throughput and auditability.
+### 🎨 Frontend
+- React
+- Next.js
+- Vue / Nuxt
+- TypeScript
 
-* **Design Patterns**: Singleton, Factory, Repository, Dependency Injection, Observer, Strategy, Adapter.
+### 📱 Mobile
+- Flutter
 
-* **Practical Examples**:
+### 🗄 Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- Redis
 
-* **Clean/Hexagonal Architecture** for decoupled, maintainable code.
+### 🚀 DevOps
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+- Nginx
+- Linux Servers
 
-* **Microservices & Event-Driven** using RabbitMQ/Kafka.
+---
 
-* **Design Patterns:** Singleton, Factory, Repository, Dependency Injection, Observer, Strategy.
+## 🏗 Architecture & Engineering Practices
 
+### 🔹 Clean / Hexagonal Architecture
+Clear separation of concerns between:
+- Domain
+- Application
+- Infrastructure
+- Interface layers
 
+Result: Maintainable, testable, and scalable systems.
 
+### 🔹 Microservices & Event-Driven Systems
+- RabbitMQ
+- Apache Kafka
+- Async Processing
+- Event Sourcing
+
+### 🔹 Scalability Patterns
+- CQRS
+- Event Sourcing
+- Caching Strategies
+- Horizontal Scaling
+- Load Balancing
+
+### 🔹 Design Patterns
+- Repository
+- Dependency Injection
+- Factory
+- Strategy
+- Observer
+- Adapter
+
+---
+
+## 🎯 Engineering Philosophy
+
+- Build for scale from day one  
+- Keep business logic independent  
+- Optimize for maintainability  
+- Automate everything possible  
+- Measure performance, don’t guess  
+
+---
+
+### 📩 Let’s Build Something Scalable
+
+If you're working on a SaaS product, distributed system, or performance-critical platform — let's connect.
 
 — Amr Mostafa
